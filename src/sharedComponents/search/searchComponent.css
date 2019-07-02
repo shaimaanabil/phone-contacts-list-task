@@ -1,0 +1,35 @@
+.menu-icon{
+   margin: left;
+   background-color:  #4b577a;
+   font-size: 17px;
+   color:rgba(250, 250, 250, 0.89)
+
+  }
+
+.Contact-title{
+    margin: auto;
+}
+.searchBar{
+    width: 100%;
+    position: sticky;
+    background-color: #4b577a;
+} 
+::placeholder{
+    color: rgba(250, 250, 250, 0.89);
+    padding: 10px;
+}
+.search{
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid rgba(204, 204, 204, 0.89);
+    border-radius: 6px;
+    font-size: 13.5px;
+    background-color: #646d8c;
+    /* background-image: url('./../images/search.jpg'); */
+    background-size: 55px;
+    background-position: 202px -3px; 
+    background-repeat: no-repeat;
+    padding: 6px;
+    color: rgba(250, 250, 250, 0.89);
+    margin: 5px 40px 20px;
+}
